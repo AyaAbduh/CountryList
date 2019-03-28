@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="Rank">Rank</string>
+    <string name="Next">Next</string>
+    <string name="previous">previous</string>
+</resources>
