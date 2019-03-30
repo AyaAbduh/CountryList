@@ -1,4 +1,4 @@
-package com.example.countrylist;
+package com.example.countrylist.Model.Network;
 
 
 import android.graphics.Bitmap;
